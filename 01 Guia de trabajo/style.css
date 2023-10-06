@@ -1,0 +1,27 @@
+body{
+    background-color: rgb(122, 80, 161);
+    text-align: 0;
+}
+h1{
+    color: rgb(36, 34, 34);
+    text-align: center;
+    background-color: aliceblue;
+}
+.image_1{
+    size: 200px;
+    height: 200px;
+    display: block; 
+    margin: 0 auto;
+    border-radius: 50%;
+}
+.centrar{
+    color: rgb(36, 34, 34);
+    text-align: center;
+}
+.listas{
+    list-style-type: none;
+    padding-left: 0;
+}
+h2{
+    color:azure;
+}
